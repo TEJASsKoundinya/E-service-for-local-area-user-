@@ -1,4 +1,4 @@
-# Object-detection
+# E-service object detection for local provider's 
  E-service module
  * Detects electronic application and then displays the service provider for it.
  * Just a class of 9 such application and company logo were used.
